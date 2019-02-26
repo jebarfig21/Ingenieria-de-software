@@ -11,58 +11,56 @@ import java.util.List;
  *
  * @author jonathan
  */
-public class UsuarioDAO extends AbstractDAO<Usuario> {
-    
+public class MarcadorDAO extends AbstractDAO<Marcador>{
     /**
      * 
      */
-    public UsuarioDAO(){
+    public MarcadorDAO(){
         super();
     }
     
+    
     /**
      * 
-     * @param usuario 
+     * @param marcador 
      */
     @Override
-    public void save(Usuario usuario){
-        super.save(usuario);
+    public void save(Marcador marcador){
+        super.save(marcador);
     }
     
     /**
      * 
-     * @param usuario 
+     * @param marcador 
      */
     @Override
-    public  void update(Usuario usuario){
-        super.update(usuario);
+    public void update(Marcador marcador){
+        super.save(marcador);
     }
     
     /**
      * 
-     * @param usuario 
+     * @param marcador 
      */
     @Override
-    public void delete(Usuario usuario){
-        super.delete(usuario);
+    public void delete(Marcador marcador){
+        super.delete(marcador);
     }
-    
+       
     /**
      * 
      * @param id
      * @return 
      */
-    public Usuario find(int id){
-        return super.find(Usuario.class, id);
+    public Marcador find(int id){
+        return super.find(Marcador.class, id);
     }
     
     /**
      * 
      * @return 
      */
-    public List<Usuario> findAll(){
-        return super.findAll(Usuario.class);
-    
+    public List<Marcador> findAll(){
+        return super.findAll(Marcador.class);
     }
-    
 }
