@@ -1,0 +1,11 @@
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/com/mycompany/modelo/AbstractDAO.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/controlador/BuscaPorNombre.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/controlador/EliminaUsuario.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/com/mycompany/modelo/MarcadorDAO.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/controlador/FilterSession.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/controlador/AgregaUsuario.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/controlador/ControladorSesion.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/com/mycompany/modelo/Marcador.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/com/mycompany/modelo/HibernateUtil.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/com/mycompany/modelo/Usuario.java
+/home/jorge/Escritorio/Ing de Software/Ingenieria-de-software/mapita/src/main/java/com/mycompany/modelo/UsuarioDAO.java
